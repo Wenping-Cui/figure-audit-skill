@@ -1,0 +1,3 @@
+interface:
+  display_name: "Figure Audit"
+  short_description: "Review nature-figure outputs as an independent subagent"
